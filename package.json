@@ -6,9 +6,12 @@
   "author": "Tran Phong Phu <vietean@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "next": "^7.0.1",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "@zeit/next-css": "1.0.1",
+    "antd": "3.10.0",
+    "babel-plugin-import": "1.9.1",
+    "next": "7.0.1",
+    "react": "16.5.2",
+    "react-dom": "16.5.2"
   },
   "scripts": {
     "dev": "next",
